@@ -1,10 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-/*
-* Key lesen und mit einem switch die function auswählen, werte vermitteln und berechnnen
-* Vordefiniertes Stringformat (A, Operatoren, B), den input mit regex aufteilen und dann einordnen als: A, Operatoren, B
-* Einfachste (Simpleste) Methode: Operator abfragen und die Werte abfragen und dann berechnen
-* 
-*/
 namespace Taschenrechner
 {
     internal class Program
@@ -17,16 +11,15 @@ namespace Taschenrechner
             
             Console.WriteLine("Exercise 1.0: Calculator");
 
-            Console.WriteLine("Output: " + app.EinfachsteMethode1());
+            Console.WriteLine("Output: " + app.Methode1());
             Console.WriteLine("Output: " + app.Methode2());
-            //Console.WriteLine("Output: " + app.Methode3()); -- unnötig für den Wiedereinstieg
 
 
         }
 
-        public string EinfachsteMethode1()
+        public string Methode1()
         {
-            Console.WriteLine("  - Einfachste Methode 1");
+            Console.WriteLine("  - Methode 1");
 
             Console.WriteLine("Choose your Operator: ");
             string choose = Console.ReadLine();
@@ -97,23 +90,9 @@ namespace Taschenrechner
             }
             return result.ToString();
         }
-
-        public string Methode3()
-        {
-            Console.WriteLine("  - Methode 3");
-
-            Console.WriteLine("Choose your Operator: ");
-            string choose = Console.ReadLine();
-
-            double result = 2;
-
-
-
-
-            return result.ToString();
-        }
     }
 }
+
 
 
 
