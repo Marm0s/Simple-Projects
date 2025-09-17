@@ -7,13 +7,10 @@ namespace ToDoApp
     {
         public List<Table> table = [];
         public static bool cycle = true;
-        public static string filepath = "C:\\Projects\\C#\\Übungen\\ToDoApp\\table.json";
+        public static string filepath = "absolute_filepath\\table.json";
         public static void Main(string[] args)
         {
             var app = new Program();
-            string winDir = System.Environment.CurrentDirectory;
-            string filename = "\\table.json";
-            
             Console.WriteLine("Exercise 2.1: To-Do App");
 
             //app.ReadTable();
@@ -109,3 +106,4 @@ namespace ToDoApp
         public string State { get; set; } = string.Empty;
     }
 }
+
