@@ -1,0 +1,14 @@
+C:\Projects\C#\Übungen\Mini-Bibliothek\obj\Debug\net9.0\Mini-Bibliothek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\Übungen\Mini-Bibliothek\obj\Debug\net9.0\Mini-Bibliothek.AssemblyInfoInputs.cache
+C:\Projects\C#\Übungen\Mini-Bibliothek\obj\Debug\net9.0\Mini-Bibliothek.AssemblyInfo.cs
+C:\Projects\C#\Übungen\Mini-Bibliothek\obj\Debug\net9.0\Mini-Bibliothek.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Übungen\Mini-Bibliothek\bin\Debug\net9.0\Mini-Bibliothek.exe
+C:\Projects\C#\Übungen\Mini-Bibliothek\bin\Debug\net9.0\Mini-Bibliothek.deps.json
+C:\Projects\C#\Übungen\Mini-Bibliothek\bin\Debug\net9.0\Mini-Bibliothek.runtimeconfig.json
+C:\Projects\C#\Übungen\Mini-Bibliothek\bin\Debug\net9.0\Mini-Bibliothek.dll
+C:\Projects\C#\Übungen\Mini-Bibliothek\bin\Debug\net9.0\Mini-Bibliothek.pdb
+C:\Projects\C#\Übungen\Mini-Bibliothek\obj\Debug\net9.0\Mini-Bibliothek.dll
+C:\Projects\C#\Übungen\Mini-Bibliothek\obj\Debug\net9.0\refint\Mini-Bibliothek.dll
+C:\Projects\C#\Übungen\Mini-Bibliothek\obj\Debug\net9.0\Mini-Bibliothek.pdb
+C:\Projects\C#\Übungen\Mini-Bibliothek\obj\Debug\net9.0\Mini-Bibliothek.genruntimeconfig.cache
+C:\Projects\C#\Übungen\Mini-Bibliothek\obj\Debug\net9.0\ref\Mini-Bibliothek.dll
